@@ -14,6 +14,8 @@ This folder contains all of the .py files required to run this programme.
 - Create a new User that could potentially use the Library System, specifying user attributes giving it a unique profile within the system.
 - Loan books to existing users, and as long as the Book is in stock. Then return the book before 2 weeks, or it will be marked as late!
 - Provide the user options via the command line to edit attributes of any class object.
+- Programme with code modularity and resuability in mind.
+- Ensure all exceptions and potential errors are gracefully handled.
 
 ## Key takeaways and future development
 
